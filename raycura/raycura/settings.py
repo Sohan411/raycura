@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-q&@b!wk&7meikhqb7@*6t%cqx16d@1=fj9*x5@-25x@&j0(l(j
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['www.raycura.com','raycura.com']
+ALLOWED_HOSTS = ['www.raycura.com','raycura.com','65.2.161.101']
 
 
 # Application definition
